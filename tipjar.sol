@@ -62,4 +62,5 @@ return waitress;
             waitress.push(Waitress(walletAddress, name, percent));
         }
     }
+    
 }
